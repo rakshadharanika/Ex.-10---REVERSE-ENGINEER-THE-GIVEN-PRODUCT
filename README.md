@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![635423550e59a83d5d4e1b3d-big-door-stopper-sturdy-and-stackable](https://github.com/rakshadharanika/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149348380/35f69c85-c062-44d4-b008-a2e8d733bacd)
 
 ### Output:
 
+![Screenshot (42)](https://github.com/rakshadharanika/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149348380/bd5a89ce-2f7d-47ef-9bee-3d22e7a85276)
 
-### Name:
-### Register Number:
+### Name: V RAKSHA DHARANIKA
+### Register Number:212223230167
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
